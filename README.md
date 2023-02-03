@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=191970&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Isabela+Ginglass;I'm+17+years+old;I'm+from+Brazil;Be+Welcome!)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Belaginglass&show_icons=true&count_private=true&hide_border=true&title_color=191970&icon_color=191970&text_color=c9d1d9&bg_color=0d1117" alt="Isabela Ginglass github stats" /> 
+  <img width="49%" height="195px" src="" /> 
 </div>
 
 

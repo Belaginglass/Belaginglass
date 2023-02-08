@@ -3,7 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=191970&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Isabela+Ginglass;I'm+17+years+old;I'm+from+Brazil;Be+Welcome!)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="" /> 
+     <a href="https://github.com/belaginglass">
+  <img width="50%" height="300px" src="https://www.sanrio.eu/wp-content/uploads/2015/07/sanrio-GIF-1.gif" /> 
 </div>
 
 

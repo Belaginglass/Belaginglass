@@ -4,7 +4,7 @@
 
 <div align="center">  
      <a href="https://github.com/belaginglass">
-  <img width="50%" height="300px" src="https://www.sanrio.eu/wp-content/uploads/2015/07/sanrio-GIF-1.gif" /> 
+  <img width="50%" height="300px" src="https://media.tenor.com/AMm9lIfrxTAAAAAM/sanrio-my-melody.gif" /> 
 </div>
 
 
